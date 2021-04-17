@@ -22,7 +22,7 @@
   padding-top: 15px;
 }
 .box {
-  width: 40%;
+  width: 60%;
   height: 100%;
   border: 5px solid black;
   display: block;
@@ -44,8 +44,7 @@
 }
 .bong {
   display: block;
-  background: url(https://previews.123rf.com/images/tapui/tapui1711/tapui171100060/88913823-badminton-ball-shuttlecock-and-racket-on-court-floor-black-and-white-white-color-badminton-ball-two-.jpg)
-    no-repeat center;
+  background: url(https://previews.123rf.com/images/tapui/tapui1711/tapui171100060/88913823-badminton-ball-shuttlecock-and-racket-on-court-floor-black-and-white-white-color-badminton-ball-two-.jpg)no-repeat center;
   background-size: cover;
   position: relative;
   height: 100%;
@@ -66,7 +65,7 @@ p {
 }
 nav {
   align-items: center;
-  width: 40%;
+  width: 100%;
   height: 100%;
   border: 2pc double black;
   margin-right: auto;
@@ -93,6 +92,7 @@ form {
   margin-right: auto;
   margin-right: 3pc;
   width: 100%;
+  transition: 1s;
 }
 .link {
   text-align: center;
@@ -105,7 +105,7 @@ form {
   margin-right: 3pc;
   border: 10px double black;
   padding: auto;
-  width: 90%;
+  width: 100%;
 }
 .link a :hover {
   font-size: 3pc;
